@@ -1,0 +1,12 @@
+2.7.0
+{
+    "version": "2.5.0",
+    "changelog": [
+        "iPadOS-style UI redesign",
+        "Multi-framework support (ESX + QBCore)",
+        "Position auto-save feature",
+        "New config layout",
+        "Fixed overdose.lua errors"
+    ],
+    "download": "CFX PORTAL"
+}
